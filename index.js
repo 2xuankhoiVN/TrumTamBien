@@ -15,7 +15,7 @@ function startBot() {
     return new Promise((resolve, reject) => {
         bot = mineflayer.createBot({
             host: 'vinamc.net',
-            username: 'TrumTamBien',
+            username: 'TrumXemSach',
             auth: 'offline',
             port: 25565,
             version: "1.20.4",
